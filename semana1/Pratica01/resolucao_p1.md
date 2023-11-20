@@ -32,7 +32,6 @@ Em Java
 
         //Construtor da Classe
         public NomeDaClasse(int valor){}
-
         //métodos da clase
         public void nomeDoMetodo(String parametros){
             // Bloco do metodo
@@ -49,12 +48,10 @@ Em C++
             privateAtributo;
         public:
             int atributo;
-
             //Construtor da Classe
             NomeDaClasse(int valor){
 
             }
-
             //métodos da clase
             void nomeDoMetodo(String parametros){
             // Bloco do metodo
