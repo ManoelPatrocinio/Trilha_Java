@@ -137,7 +137,6 @@ Para criar uma subclasse no Java, basta declará-la com a palavra reservada exte
         }
     }
 ~~~
-
 <p>
 4. Quando declaramos uma variável em Java, temos, na verdade, um ponteiro.
 Em C++ é diferente. Discorra sobre esse aspecto.
